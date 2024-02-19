@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+}
+
+.table {
+    width: 90%;
+}
+
+.table td {
+    text-align: right;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+.table td:first-child {
+    text-align: left;
+}
+
+.gradient {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.419), rgba(172, 172, 172, 0.803), rgb(255, 255, 255));
+}
